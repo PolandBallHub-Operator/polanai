@@ -17,7 +17,7 @@
   },
   "links": {
     "app_url": "https://polandballhub-operator.github.io/polanai/",
-    "manifest_url": "raw.githubusercontent.com/PolandBallHub-Operator/pbhistory/refs/heads/main/pwa-store/manifest.json"
+    "manifest_url": "raw.githubusercontent.com/PolandBallHub-Operator/polanai/refs/heads/main/pwa-store/manifest.json"
   },
   "metadata": {
     "category": "Tools",
