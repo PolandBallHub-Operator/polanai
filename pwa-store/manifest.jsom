@@ -1,0 +1,34 @@
+{
+  "app_id": "jp.apps.devtangle.pbhub.polanAI",
+  "app_name": "PolanAI",
+  "developer": {
+    "name": "devtangle",
+    "website": "https://sites.google.com/view/pballhub",
+    "github": "https://github.com/PolandBallHub-Operator"
+  },
+  "version_info": {
+    "current_version": "1.0.0",
+    "release_date": "2026-04-16",
+    "last_updated": "2026-04-16"
+  },
+  "description": {
+    "short": "ポーランドボールたちと話せる!",
+    "full": "AI歴史-PB - ポーランドボールと学ぶパーソナライズ英語学習Polandball History は、年代とジャンルを入力するだけで、ポーランドボールの国たちが歴史について語り合うストーリーを自動生成するアプリです。政治・戦争・文化など幅広いテーマに対応し、コミカルで読みやすい会話形式の物語を楽しめます。生成したストーリーはアプリ内に保存でき、画像として共有することも可能です。TTSによる読み上げ機能を使えば、ポッドキャストのように耳で歴史を楽しむこともできます。シンプルで直感的な操作性で、Polandballファンはもちろん、歴史を気軽に学びたい人にも最適です。今すぐ AI歴史-PB をインストールして、世界中のボールたちと一緒に英語の旅へ出かけましょう！"
+  },
+  "links": {
+    "app_url": "https://polandballhub-operator.github.io/polanai/",
+    "manifest_url": "raw.githubusercontent.com/PolandBallHub-Operator/pbhistory/refs/heads/main/pwa-store/manifest.json"
+  },
+  "metadata": {
+    "category": "Tools",
+    "tags": ["PWA", "Talk", "Polandball", "PBhub", "chat", "ポーランドボール"],
+    "license": "Apache-2.0"
+  },
+  "assets": {
+    "icon": "raw.githubusercontent.com/PolandBallHub-Operator/polanai/refs/heads/main/images/icon-512.png",
+    "screenshots": [
+      "https://raw.githubusercontent.com/PolandBallHub-Operator/pbhistory/refs/heads/main/pwa-store/screen/screen-mobile.png",
+      "https://raw.githubusercontent.com/PolandBallHub-Operator/pbhistory/refs/heads/main/pwa-store/screen/screen-tab.png"
+    ]
+  }
+}
